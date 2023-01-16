@@ -1,0 +1,20 @@
+C:\Users\Berat ARPA\source\repos\PersonelVardiyaOtomasyonu\PersonelVardiyaOtomasyonu\obj\Debug\PersonelVardiyaOtomasyonu.csproj.AssemblyReference.cache
+C:\Users\Berat ARPA\source\repos\PersonelVardiyaOtomasyonu\PersonelVardiyaOtomasyonu\obj\Debug\PersonelVardiyaOtomasyonu.csproj.SuggestedBindingRedirects.cache
+C:\Users\Berat ARPA\source\repos\PersonelVardiyaOtomasyonu\PersonelVardiyaOtomasyonu\obj\Debug\PersonelVardiyaOtomasyonu.Login.resources
+C:\Users\Berat ARPA\source\repos\PersonelVardiyaOtomasyonu\PersonelVardiyaOtomasyonu\obj\Debug\PersonelVardiyaOtomasyonu.Properties.Resources.resources
+C:\Users\Berat ARPA\source\repos\PersonelVardiyaOtomasyonu\PersonelVardiyaOtomasyonu\obj\Debug\PersonelVardiyaOtomasyonu.csproj.GenerateResource.cache
+C:\Users\Berat ARPA\source\repos\PersonelVardiyaOtomasyonu\PersonelVardiyaOtomasyonu\obj\Debug\PersonelVardiyaOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\Berat ARPA\source\repos\PersonelVardiyaOtomasyonu\PersonelVardiyaOtomasyonu\obj\Debug\PersonelVardiyaOtomasyonu.Main.resources
+C:\Users\Berat ARPA\source\repos\PersonelVardiyaOtomasyonu\PersonelVardiyaOtomasyonu\obj\Debug\PersonelVardiyaOtomasyonu.Roles.resources
+C:\Users\Berat ARPA\source\repos\PersonelVardiyaOtomasyonu\PersonelVardiyaOtomasyonu\obj\Debug\PersonelVardiyaOtomasyonu.ShiftAdd.resources
+C:\Users\Berat ARPA\source\repos\PersonelVardiyaOtomasyonu\PersonelVardiyaOtomasyonu\obj\Debug\PersonelVardiyaOtomasyonu.ShiftUpdate.resources
+C:\Users\Berat ARPA\source\repos\PersonelVardiyaOtomasyonu\PersonelVardiyaOtomasyonu\obj\Debug\PersonelVardiyaOtomasyonu.Users.resources
+C:\Users\Berat ARPA\source\repos\PersonelVardiyaOtomasyonu\PersonelVardiyaOtomasyonu\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Berat ARPA\source\repos\PersonelVardiyaOtomasyonu\PersonelVardiyaOtomasyonu\bin\Debug\itextsharp.dll
+C:\Users\Berat ARPA\source\repos\PersonelVardiyaOtomasyonu\PersonelVardiyaOtomasyonu\bin\Debug\itextsharp.xml
+C:\Users\Berat ARPA\source\repos\PersonelVardiyaOtomasyonu\PersonelVardiyaOtomasyonu\obj\Debug\PersonelVardiyaOtomasyonu.csproj.CopyComplete
+C:\Users\Berat ARPA\source\repos\PersonelVardiyaOtomasyonu\PersonelVardiyaOtomasyonu\bin\Debug\Personel Vardiya Otomasyonu.exe.config
+C:\Users\Berat ARPA\source\repos\PersonelVardiyaOtomasyonu\PersonelVardiyaOtomasyonu\bin\Debug\Personel Vardiya Otomasyonu.exe
+C:\Users\Berat ARPA\source\repos\PersonelVardiyaOtomasyonu\PersonelVardiyaOtomasyonu\bin\Debug\Personel Vardiya Otomasyonu.pdb
+C:\Users\Berat ARPA\source\repos\PersonelVardiyaOtomasyonu\PersonelVardiyaOtomasyonu\obj\Debug\Personel Vardiya Otomasyonu.exe
+C:\Users\Berat ARPA\source\repos\PersonelVardiyaOtomasyonu\PersonelVardiyaOtomasyonu\obj\Debug\Personel Vardiya Otomasyonu.pdb
