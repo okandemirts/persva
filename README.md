@@ -2,11 +2,11 @@
 ## Kurulum
 Uygulamayı direkt çalıştırmaya çalışırsak hata ile karşılarız ilk önce veritabanını SQL Server da yüklememiz lazım.
 Dosyaların içinde bulunan "DatabaseObject" dosyasını SQL Server uygulamamıza aktarmamız lazım
-1.adım "DatabaseObject" dosyasını "C:" sürücüsüne atıyoruz.
-2.adım SQL Server Uygulamasını açıp bağlanıyoruz.
-3.adım Sol taraftaki panelden "Databases" klasörüne sağ tıklayıp "Restore Database" e tıklıyoruz.
-4.adım Açılan panelden Device butonuna tıklayıp veritabanımızın bulunduğu dosyadan seçiyoruz ve tamama basıyoruz.
-Tebrikler Kurulum Başarılı.
+-1.adım "DatabaseObject" dosyasını "C:" sürücüsüne atıyoruz.
+-2.adım SQL Server Uygulamasını açıp bağlanıyoruz.
+-3.adım Sol taraftaki panelden "Databases" klasörüne sağ tıklayıp "Restore Database" e tıklıyoruz.
+-4.adım Açılan panelden Device butonuna tıklayıp veritabanımızın bulunduğu dosyadan seçiyoruz ve tamama basıyoruz.
+-Tebrikler Kurulum Başarılı.
 ## Projenin Amacı
 
 Projenin amacı okuldaki memurlar ve işçiler için otomaasyon uygulaması otomatik program yapan bir proje geliştirdik.
